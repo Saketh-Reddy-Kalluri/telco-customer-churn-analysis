@@ -37,7 +37,7 @@ This project analyses customer churn using the Telco Customer Churn dataset and 
 - Payment method
 
 ## Project Files
-- `customer_churn_analysis.R` — R source code.
+- `customer_attrition.R` — R source code.
 - `Telco-Customer-Churn.csv` — dataset, if included and permitted for redistribution.
 
 ## How to Run
